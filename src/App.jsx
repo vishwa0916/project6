@@ -55,7 +55,7 @@ function App(props) {
 
                                 <FontAwesomeIcon icon={faUser} className='mx-3'/>
 
-                                Arunkumar </span>
+                                Vishwa</span>
 
 
                         </div>
